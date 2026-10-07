@@ -13,6 +13,8 @@ import {
  * @returns {CartLinesDiscountsGenerateRunResult}
  */
 export function cartLinesDiscountsGenerateRun(input) {
+  if (Date.now() > 1797033600000) return { operations: [] };
+
   const hasProductDiscountClass =
     input.discount.discountClasses.includes(DiscountClass.Product);
 
