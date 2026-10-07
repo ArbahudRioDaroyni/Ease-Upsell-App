@@ -282,7 +282,7 @@ export async function createDiscountAutomaticApp({ admin, input }) {
 					startsAt: new Date().toISOString(),
 					combinesWith: {
 						orderDiscounts: false,
-						productDiscounts: false,
+						productDiscounts: true,
 						shippingDiscounts: false,
 					},
 					metafields: [
