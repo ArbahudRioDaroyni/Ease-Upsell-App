@@ -1,0 +1,33 @@
+query CartInput($collectionIds: [ID!]) {
+  cart {
+    lines {
+      id
+      quantity
+      cost {
+        subtotalAmount {
+          amount
+        }
+      }
+      merchandise {
+        __typename
+        ... on ProductVariant {
+          id
+          product {
+            id
+            isEligible: inAnyCollection(ids: $collectionIds)
+          }
+        }
+      }
+    }
+  }
+
+  discount {
+    discountClasses
+    configuration: metafield(
+      namespace: "$app:discount-config"
+      key: "function-configuration"
+    ) {
+      jsonValue
+    }
+  }
+}

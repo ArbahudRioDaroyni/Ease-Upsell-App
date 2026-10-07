@@ -1,0 +1,26 @@
+api_version = "2026-07"
+
+[[extensions]]
+name = "t:name"
+handle = "discount-bulk-buy-tier"
+type = "function"
+uid = "4642eb54-e0bb-8cf1-99fe-cb52d8b5c1ffa7fb8351"
+description = "t:description"
+
+  [[extensions.targeting]]
+  target = "cart.lines.discounts.generate.run"
+  input_query = "src/cart_lines_discounts_generate_run.graphql"
+  export = "cart-lines-discounts-generate-run"
+
+  [extensions.input.variables]
+  namespace = "$app:discount-config"
+  key = "function-configuration"
+
+  # [[extensions.targeting]]
+  # target = "cart.delivery-options.discounts.generate.run"
+  # input_query = "src/cart_delivery_options_discounts_generate_run.graphql"
+  # export = "cart-delivery-options-discounts-generate-run"
+
+  [extensions.build]
+  command = ""
+  path = "dist/function.wasm"

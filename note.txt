@@ -1,0 +1,26 @@
+• (misal: diskon Rp50.000 dengan minimal belanja Rp500.000).
+• Bundle / Package Discount: Diskon paket hemat untuk pembelian produk pelengkap secara bersamaan (misal: beli Kamera + Lensa + Tas sekaligus).
+• Cross-Selling Discount: Diskon untuk produk kedua yang berbeda setelah membeli produk utama (misal: beli sepatu, dapat diskon 30% untuk kaos kaki).
+• Upselling Discount: Diskon untuk upgrade ke ukuran atau varian yang lebih besar (misal: tambah Rp5.000 untuk ukuran Large).
+• Abandon Shopping Cart Discount: Kode voucher otomatis yang dikirim ke email pelanggan yang meninggalkan barang di keranjang belanja tanpa checkout.
+• Subscription Discount: Potongan harga berkelanjutan jika pelanggan memilih sistem berlangganan bulanan/tahunan otomatis.
+• Pre-Order Discount: Diskon khusus untuk pembelian produk yang belum resmi rilis (masa tunggu produksi).
+• Mystery Discount: Besaran diskon tersembunyi yang baru akan diketahui pelanggan saat melakukan scratch-off atau klik tombol klaim.
+🔄 Diskon Berbasis Retensi & Promosi
+• Referral Discount: Diskon yang didapatkan setelah berhasil mengajak teman mendaftar atau berbelanja menggunakan kode unik Anda.
+• Review/Feedback Discount: Potongan harga untuk pembelian berikutnya setelah pelanggan memberikan ulasan bintang 5 dan foto produk.
+• Trade-In Discount (Tukar Tambah): Potongan harga beli barang baru dengan syarat menyerahkan barang lama layak pakai milik konsumen.
+• Next-Purchase Coupon: Voucher diskon yang tercetak di struk belanja untuk digunakan pada kunjungan berikutnya.
+• Win-Back Discount: Diskon khusus yang dikirimkan kepada pelanggan pasif yang sudah tidak berbelanja selama lebih dari 6 bulan.
+• Social Media Share Discount: Potongan harga langsung setelah pelanggan membagikan postingan promosi toko ke akun media sosial mereka.
+🏷️ Diskon Berbasis Kondisi & Karakteristik Produk
+• Clearance Sale: Diskon cuci gudang sangat besar untuk menghabiskan sisa stok produk yang tidak akan diproduksi lagi.
+• Damaged Box / Cosmetic Defect Discount: Diskon untuk produk yang fungsinya 100% normal tetapi memiliki cacat pada kemasan atau sedikit goresan fisik.
+• Near Expiry Discount: Diskon besar untuk produk makanan/kosmetik yang mendekati tanggal kedaluwarsa (misal: 3 bulan sebelum expired).
+• Display Unit Sale: Potongan harga untuk barang elektronik atau furnitur yang sebelumnya digunakan sebagai sampel pajangan di toko.
+• Overstock Discount: Potongan harga akibat kelebihan pasokan barang tertentu di gudang agar perputaran modal tetap berjalan.
+🚚 Diskon Finansial & Logistik Lainnya
+• Free Shipping Discount: Pemotongan atau penggratisan biaya kirim dengan syarat wilayah atau minimal belanja tertentu.
+• Free Shipping with Cap: Subsidi ongkir dengan batas maksimal (misal: gratis ongkir hingga maksimal Rp20.000).
+• Flat Rate Discount: Potongan harga berupa nominal tetap tanpa melihat total belanja (misal: potongan Rp25.000 untuk semua produk).
+• Percentage Discount: Potongan harga berbasis persentase dari total nilai barang (misal: diskon 15% untuk produk fesyen).
